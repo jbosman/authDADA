@@ -1,4 +1,4 @@
-'use strict';
+np'use strict';
 
 app.factory('User', function ($http, Story) {
   function User (props) {
